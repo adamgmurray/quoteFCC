@@ -1,0 +1,29 @@
+.quote{
+  font-family: 'Tangerine', cursive;
+  font-size: 4vw;
+  color: #fff5e2;
+}
+.quote-container{
+  color: #fff5e2;
+  font-family: 'Oswald', sans-serif;
+  background-color: rgba(136,98,136, 0.3);
+  width: 50vw;
+  margin: auto;
+  padding: 20px;
+  border-radius: 50px;
+  font-size: 4vw;
+}
+.butt {
+    background-color: #fff5e2;
+    border: none;
+    color: rgb(136,98,136);
+    padding: px px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 2vw;
+    font-family: 'Oswald', sans-serif;
+    border-radius: 5px;
+}
+body{
+  background-image: url('http://www.ruz-grafick.com/style/images/bg/abstract_purpple.jpeg');
+}
